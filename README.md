@@ -26,6 +26,7 @@ I'm an aspiring Web Designer with a passion for programming. Here I design respo
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="40" height="40"></img>
   <img src="https://github.com/devicons/devicon/blob/master/icons/netlify/netlify-original-wordmark.svg" width="40" height="40"></img>
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original-wordmark.svg" width="40" height="40"></img>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cloudflare/cloudflare-original-wordmark.svg" width="40" height="40"></img>
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" width="40" height="40"></img>
   <img src="https://github.com/devicons/devicon/blob/master/icons/google/google-original-wordmark.svg" width="40" height="40"></img>
 </div>
@@ -33,8 +34,6 @@ I'm an aspiring Web Designer with a passion for programming. Here I design respo
 ## Frameworks and Libraries 📚
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="40" height="40"></img>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="40" height="40"></img>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" width="40" height="40"></img>
   <img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" width="40" height="40"></img>
 </div>
@@ -61,6 +60,8 @@ I'm an aspiring Web Designer with a passion for programming. Here I design respo
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="40" height="40"></img>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="40" height="40"></img>
   <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" width="40" height="40"></img>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="40" height="40"></img>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="40" height="40"></img>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="40" height="40"></img>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="40" height="40"></img>
 </div>
@@ -74,7 +75,6 @@ I'm an aspiring Web Designer with a passion for programming. Here I design respo
 <!--
 **aidan-yip/aidan-yip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-  <img src="" width="40" height="40"></img>
   <img src="" width="40" height="40"></img>
   <img src="" width="40" height="40"></img>
   <img src="" width="40" height="40"></img>
