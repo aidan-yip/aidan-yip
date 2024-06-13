@@ -2,7 +2,7 @@
 
 <img src="https://github.com/aidan-yip/aidan-yip/blob/main/small.jpg" width="500"></img>
 
-# About Me:
+# About Me
 
 I'm an aspiring Web Designer with a passion for programming. Here I design responsive websites and other projects! Follow to see my progress.
 
