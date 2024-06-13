@@ -1,6 +1,6 @@
 # Hi there I'm Aidan! 👋🏻
 
-<img src="" width="500"></img>
+<img src="https://github.com/aidan-yip/aidan-yip/blob/main/small.jpg" width="500"></img>
 
 # About Me:
 
