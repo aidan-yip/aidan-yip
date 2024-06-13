@@ -60,6 +60,7 @@ I'm an aspiring Web Designer with a passion for programming. Here I design respo
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="40" height="40"></img>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" width="40" height="40"></img>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" width="40" height="40"></img>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="40" height="40"></img>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="40" height="40"></img>
 </div>
@@ -73,6 +74,8 @@ I'm an aspiring Web Designer with a passion for programming. Here I design respo
 <!--
 **aidan-yip/aidan-yip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+  <img src="" width="40" height="40"></img>
+  <img src="" width="40" height="40"></img>
   <img src="" width="40" height="40"></img>
   <img src="" width="40" height="40"></img>
 
