@@ -67,7 +67,7 @@ I'm an aspiring Web Designer with a passion for programming. Here I design respo
 
 ## My Stats
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aidan-yip&theme=ocean-gradient&hide_border=true&border_radius=35&mode=weekly&border=EBEBEB&fire=EB5454&ring=EB5454&currStreakLabel=EB5454)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aidan-yip&theme=ocean-gradient&hide_border=true&border_radius=15&mode=weekly&border=EBEBEB&fire=EB5454&ring=EB5454&currStreakLabel=EB5454)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aidan-yip&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
