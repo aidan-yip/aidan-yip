@@ -39,7 +39,7 @@ I'm an aspiring Web Designer with a passion for programming. Here I design respo
   <img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" width="40" height="40"></img>
 </div>
 
-## Operating Systems I am familiar with 💿
+## Operating Systems I've Used 💿
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" width="40" height="40"></img>
