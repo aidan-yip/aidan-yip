@@ -59,7 +59,7 @@ I'm an aspiring Web Designer with a passion for programming. Here I design respo
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="40" height="40"></img>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" width="40" height="40"></img>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="40" height="40"></img>
   <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" width="40" height="40"></img>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="40" height="40"></img>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="40" height="40"></img>
