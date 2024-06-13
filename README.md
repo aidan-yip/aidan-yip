@@ -1,6 +1,6 @@
 # Hi there I'm Aidan! 👋🏻
 
-## Languages I know 💻
+## Languages I Know 💻
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"></img>
@@ -11,7 +11,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/xml/xml-original.svg" width="40" height="40"></img>
 </div>
 
-## Tools I use 🛠️
+## Tools I Use 🛠️
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" width="40" height="40"></img>
@@ -32,7 +32,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" width="40" height="40"></img>
 </div>
 
-## Operating systems 💿
+## Operating Systems 💿
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" width="40" height="40"></img>
@@ -40,7 +40,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" width="40" height="40"></img> 
 </div>
 
-## Stuff I'm learning 🌿
+## Stuff I'm Learning 🌿
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="40" height="40"></img>
@@ -48,6 +48,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="40" height="40"></img>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="40" height="40"></img>
 </div>
+
+## My Stats
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aidan-yip&theme=ocean-gradient&hide_border=true&border_radius=35&mode=weekly&border=EBEBEB&fire=EB5454&ring=EB5454&currStreakLabel=EB5454)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aidan-yip&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **aidan-yip/aidan-yip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
