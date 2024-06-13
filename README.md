@@ -1,5 +1,11 @@
 # Hi there I'm Aidan! 👋🏻
 
+<img src="" width="500"></img>
+
+# About Me:
+
+I'm an aspiring Web Designer with a passion for programming. Here I design responsive websites and other projects! Follow to see my progress.
+
 ## Languages I Know 💻
 
 <div>
@@ -9,6 +15,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" width="40" height="40"></img>
   <img src="https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg" width="40" height="40"></img>
   <img src="https://github.com/devicons/devicon/blob/master/icons/xml/xml-original.svg" width="40" height="40"></img>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" width="40" height="40"></img>
 </div>
 
 ## Tools I Use 🛠️
@@ -32,12 +39,20 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" width="40" height="40"></img>
 </div>
 
-## Operating Systems 💿
+## Operating Systems I am familiar with 💿
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" width="40" height="40"></img>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="40" height="40"></img>
   <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" width="40" height="40"></img> 
+</div>
+
+## Browsers I test with 🛜
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/safari/safari-original-wordmark.svg" width="40" height="40"></img>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firefox/firefox-original-wordmark.svg" width="40" height="40"></img>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original-wordmark.svg" width="40" height="40"></img>
 </div>
 
 ## Stuff I'm Learning 🌿
@@ -58,7 +73,6 @@
 <!--
 **aidan-yip/aidan-yip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<img src="" width="40" height="40"></img>
   <img src="" width="40" height="40"></img>
   <img src="" width="40" height="40"></img>
 
