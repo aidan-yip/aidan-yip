@@ -69,8 +69,8 @@
 ## Audio/Visual 🎧🎬
 
 <ul>
-  <li>Video Editing</li>
-  <li>Audio Editing</li>
+  <li>DaVinci Resolve</li>
+  <li>Logic Pro X</li>
 </ul>
 
 ## My Stats
