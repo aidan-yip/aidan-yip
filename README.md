@@ -4,9 +4,7 @@
 
 # About Me
 
-I'm an aspiring Web Developer/Designer with a passion for programming. I love to create experiences that combine audio/visual content such as: music, videos and art. Here I design responsive sites, create fun web games and tinker with other projects! Follow to see my progress.
-
-BCIT - FWD 🎓 '25
+### I'm an aspiring Front-End Web Developer/Designer with a passion for programming. I love to create experiences that combine audio/visual content such as: music, video and visual art. Here on GitHub I design responsive sites, create fun web games and tinker with other projects. Follow to see my progress as I learn!
 
 ## Languages I Know 💻
 
@@ -67,6 +65,13 @@ BCIT - FWD 🎓 '25
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="40" height="40"></img>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="40" height="40"></img>
 </div>
+
+## Audio/Visual 🎧🎬
+
+<ul>
+  <li>Video Editing</li>
+  <li>Audio Editing</li>
+</ul>
 
 ## My Stats
 
