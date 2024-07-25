@@ -4,7 +4,9 @@
 
 # About Me
 
-I'm an aspiring Web Designer with a passion for programming. Here I design responsive websites and other projects! Follow to see my progress.
+I'm an aspiring Web Developer/Designer with a passion for programming. I love to create experiences that combine audio/visual content such as: music, videos and art. Here I design responsive sites, create fun web games and tinker with other projects! Follow to see my progress.
+
+BCIT - FWD 🎓 '25
 
 ## Languages I Know 💻
 
