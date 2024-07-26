@@ -1,4 +1,4 @@
-# Hi there I'm Aidan! 👋🏻
+# Hi there, I'm Aidan! 👋🏻
 
 <img src="https://github.com/aidan-yip/aidan-yip/blob/main/small.jpg" width="300"></img>
 
