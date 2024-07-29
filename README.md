@@ -1,6 +1,6 @@
 # Hi there, I'm Aidan! 👋🏻
 
-<img src="https://github.com/aidan-yip/aidan-yip/blob/main/small.jpg" width="300"></img>
+<img src="https://github.com/aidan-yip/aidan-yip/blob/main/small.jpg" width="300" style="border-radius: 30px;"></img>
 
 # About Me
 
@@ -79,9 +79,11 @@
 
 ## My Stats
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aidan-yip&theme=ocean-gradient&hide_border=true&border_radius=15&mode=weekly&border=EBEBEB&fire=EB5454&ring=EB5454&currStreakLabel=EB5454)](https://git.io/streak-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aidan-yip&border_radius=35&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aidan-yip&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Aidan-yip&border_radius=35&card_width=450&background=45%2C000000%2C00354C&ring=00EBE0&fire=00EBD1&currStreakLabel=00EBD7&stroke=EBEBEB&currStreakNum=EBEBEB&sideNums=EBEBEB&dates=EBEBEB&sideLabels=EBEBEB&excludeDaysLabel=EBEBEB)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aidan-yip&layout=compact&theme=vision-friendly-dark&border_radius=35&card_width=450&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **aidan-yip/aidan-yip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
