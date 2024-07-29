@@ -6,15 +6,6 @@
 
 ### I'm an aspiring Front-End Web Developer/Designer with a passion for programming. I love to create experiences that combine audio/visual content such as: music, video and visual art. Here on GitHub I design responsive sites, create fun web games and tinker with other projects. Follow to see my progress as I learn!
 
-## My Stats
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aidan-yip&border_radius=35&border_color=001658&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=aidan-yip&theme=hacker&border_radius=35&card_width=450&background=001900&border=022B00)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aidan-yip&layout=donut-vertical&theme=codeSTACKr&border_radius=35&card_width=450&height=195)](https://github.com/anuraghazra/github-readme-stats)
-
-
 ## Languages I Know 💻
 
 <div>
@@ -85,6 +76,14 @@
   <li>GIMP</li>
    <img src="https://github.com/devicons/devicon/raw/master/icons/gimp/gimp-original.svg" width="40" height="40"></img>
 </ul>
+
+## My Stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aidan-yip&border_radius=35&border_color=001658&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=aidan-yip&theme=hacker&border_radius=35&card_width=450&background=001900&border=022B00)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aidan-yip&layout=donut-vertical&theme=codeSTACKr&border_radius=35&card_width=450&height=195)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **aidan-yip/aidan-yip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
