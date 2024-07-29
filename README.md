@@ -81,7 +81,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aidan-yip&border_radius=35&border_color=001658&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Aidan-yip&border_radius=35&card_width=450&background=45%2C000000%2C00354C&ring=00EBE0&fire=00EBD1&currStreakLabel=00EBD7&stroke=EBEBEB&currStreakNum=EBEBEB&sideNums=EBEBEB&dates=EBEBEB&sideLabels=EBEBEB&excludeDaysLabel=EBEBEB)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=aidan-yip&theme=hacker&border_radius=35&card_width=450&background=001900&border=022B00)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aidan-yip&layout=donut-vertical&theme=codeSTACKr&border_radius=35&card_width=450&height=195)](https://github.com/anuraghazra/github-readme-stats)
 
