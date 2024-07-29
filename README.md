@@ -45,7 +45,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" width="40" height="40"></img> 
 </div>
 
-## Browsers I test with 🛜
+## Browsers I use for development 🛜
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/safari/safari-original-wordmark.svg" width="40" height="40"></img>
@@ -66,11 +66,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="40" height="40"></img>
 </div>
 
-## Audio/Visual 🎧🎬
+## Audio/Visual Software I specialize in 🎧🎬
 
 <ul>
   <li>DaVinci Resolve</li>
   <li>Logic Pro X</li>
+  <li>GIMP</li>
 </ul>
 
 ## My Stats
