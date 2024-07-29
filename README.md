@@ -40,7 +40,7 @@
 ## Operating Systems 💿
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" width="40" height="40"></img>
+  <img src="https://github.com/aidan-yip/aidan-yip/raw/main/apple.png" width="35" height="40"></img>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="40" height="40"></img>
   <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" width="40" height="40"></img> 
 </div>
