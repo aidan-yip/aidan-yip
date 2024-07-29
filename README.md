@@ -70,9 +70,11 @@
 
 <ul>
   <li>DaVinci Resolve</li>
+  <img src="https://github.com/aidan-yip/aidan-yip/raw/main/davinci.png" width="40" height="40"></img>
   <li>Logic Pro X</li>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg" width="40" height="40"></img>
+  <img src="https://github.com/aidan-yip/aidan-yip/raw/main/logicpro-icon.png" width="40" height="40"></img>
   <li>GIMP</li>
+   <img src="https://github.com/devicons/devicon/raw/master/icons/gimp/gimp-original.svg" width="40" height="40"></img>
 </ul>
 
 ## My Stats
