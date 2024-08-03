@@ -17,7 +17,7 @@
 
 ## Tools I Use 🛠️
 
- [![My Skills](https://skillicons.dev/icons?i=vscode,github,git,netlify,firebase,cloudflare,npm,google,)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=vscode,github,gitlab,git,netlify,firebase,cloudflare,npm,google,)](https://skillicons.dev)
 
 ## Frameworks and Libraries 📚
 
@@ -25,7 +25,7 @@
 
 ## Operating Systems 💿
 
-  [![My Skills](https://skillicons.dev/icons?i=apple,windows,linux)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=apple,windows,linux,ubuntu,mint,debian,raspberrypi,)](https://skillicons.dev)
 
 ## Browsers I use for Development 🛜
 
