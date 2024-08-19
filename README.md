@@ -68,6 +68,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aidan-yip&layout=donut-vertical&theme=codeSTACKr&border_radius=35&card_width=450&height=195)](https://github.com/anuraghazra/github-readme-stats)
 
+## Pinned 📌
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aidan-yip&repo=mac_tv&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **aidan-yip/aidan-yip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
