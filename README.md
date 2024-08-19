@@ -62,11 +62,11 @@
 
 ## My Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aidan-yip&border_radius=35&border_color=001658&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aidan-yip&border_radius=35&border_color=001658&theme=algolia)](https://github.com/aidan-yip)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=aidan-yip&theme=hacker&border_radius=35&card_width=450&background=001900&border=022B00)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=aidan-yip&theme=hacker&border_radius=35&card_width=450&background=001900&border=022B00)](https://github.com/aidan-yip)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aidan-yip&layout=donut-vertical&theme=codeSTACKr&border_radius=35&card_width=450&height=195)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aidan-yip&layout=donut-vertical&theme=codeSTACKr&border_radius=35&card_width=450&height=195)](https://github.com/aidan-yip)
 
 ## Pinned 📌
 
