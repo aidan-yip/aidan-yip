@@ -70,7 +70,7 @@
 
 ## Pinned 📌
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aidan-yip&repo=mac_tv&theme=algolia)](https://github.com/aidan-yip/mac-tv)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aidan-yip&repo=mac_tv&theme=algolia)](https://github.com/aidan-yip/mac_tv)
 
 <!--
 **aidan-yip/aidan-yip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
