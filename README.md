@@ -4,7 +4,7 @@
 
 # About Me
 
-### I'm an aspiring Front-End Web Developer/Designer with a passion for programming. I love to create experiences that combine audio/visual content such as: music, video and visual art. Here on GitHub I design responsive sites, clone existing interfaces, create fun web games, and tinker with other projects. Follow to see my progress as I learn!
+### I'm an aspiring Front-End Web Developer/Designer with a passion for programming. I love to create experiences that combine audio/visual content such as music, video and visual art. Here on GitHub I design responsive sites, clone existing interfaces, create fun web games, and tinker with other projects. Follow to see my progress as I learn!
 
 ## Languages I Know 💻
 
