@@ -4,7 +4,7 @@
 
 # About Me
 
-### I'm an aspiring Front-End Web Developer/Designer with a passion for programming. I love to create experiences that combine audio/visual content such as music, video and visual art. Here on GitHub I design responsive sites, clone existing interfaces, create fun web games, and tinker with other projects. Follow to see my progress as I learn!
+### I’m an aspiring Front-End Web Developer/Designer with a deep passion for programming. My creative interests lie in crafting immersive experiences that seamlessly blend audio and visual content, such as music, videos, and visual art. On GitHub, I showcase my skills by designing responsive websites, cloning existing interfaces, developing engaging web games, and experimenting with various projects. Join me on this journey of learning and growth as I share my progress!
 
 ### Currently I am a student studying at BCIT in the Front-End Web Developer program.
 
