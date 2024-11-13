@@ -23,7 +23,7 @@
 
 ## Frameworks and Libraries 📚
 
- [![My Skills](https://skillicons.dev/icons?i=jquery,electron,)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=sass,jquery,electron)](https://skillicons.dev)
 
 ## Operating Systems 💿
 
