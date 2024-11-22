@@ -29,7 +29,7 @@
 
 ## Design 🎨
 
- [![My Skills](https://skillicons.dev/icons?i=figma,illustrator,xd,lightroom,photoshop)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=figma,illustrator,xd,photoshop)](https://skillicons.dev)
 
 ## Operating Systems 💿
 
