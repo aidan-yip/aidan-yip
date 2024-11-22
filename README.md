@@ -27,6 +27,10 @@
 
  [![My Skills](https://skillicons.dev/icons?i=sass,jquery,electron)](https://skillicons.dev)
 
+## Design 🎨
+
+ [![My Skills](https://skillicons.dev/icons?i=figma,illustrator,xd,lightroom,photoshop)](https://skillicons.dev)
+
 ## Operating Systems 💿
 
   [![My Skills](https://skillicons.dev/icons?i=apple,windows,linux,ubuntu,mint,debian,raspberrypi,)](https://skillicons.dev)
