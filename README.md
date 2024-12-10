@@ -25,7 +25,7 @@
 
 ## Frameworks and Libraries 📚
 
- [![My Skills](https://skillicons.dev/icons?i=sass,jquery,electron)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=sass,jquery,react,electron)](https://skillicons.dev)
 
 ## Design 🎨
 
