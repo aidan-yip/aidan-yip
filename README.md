@@ -12,7 +12,7 @@
 
 ## Languages I Know 💻
 
- [![My Skills](https://skillicons.dev/icons?i=html,css,js,md,)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,md,)](https://skillicons.dev)
  
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg" width="40" height="40"></img>
