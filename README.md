@@ -30,6 +30,7 @@
 ## Design 🎨
 
  [![My Skills](https://skillicons.dev/icons?i=figma,xd,illustrator,photoshop)](https://skillicons.dev)
+ ![Skills](https://skills-icons.vercel.app/api/icons?i=lightroom)
 
 ## Operating Systems 💿
 
