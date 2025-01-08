@@ -34,7 +34,9 @@
 
 ## Operating Systems 💿
 
-  [![My Skills](https://skillicons.dev/icons?i=apple,windows,linux,ubuntu,mint,debian,raspberrypi,)](https://skillicons.dev)
+   ![Skills](https://skills-icons.vercel.app/api/icons?i=apple,windows,linux,ubuntu,mint,)
+   [![My Skills](https://skillicons.dev/icons?i=mint)](https://skillicons.dev)
+    ![Skills](https://skills-icons.vercel.app/api/icons?i=debian,raspberrypi,)
 
 ## Browsers I use for Development 🛜
 
