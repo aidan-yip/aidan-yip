@@ -81,6 +81,8 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aidan-yip&repo=mac_tv&theme=algolia)](https://github.com/aidan-yip/mac_tv)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aidan-yip&repo=calculator&theme=algolia)](https://github.com/aidan-yip/calculator)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aidan-yip&repo=zone_23&theme=algolia)](https://github.com/aidan-yip/zone_23)
 
 <!--
