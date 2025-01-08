@@ -21,11 +21,11 @@
 
 ## Tools I Use 🛠️
 
- [![My Skills](https://skillicons.dev/icons?i=vscode,github,gitlab,git,netlify,firebase,cloudflare,npm,google,)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=vscode,github,gitlab,git,netlify,firebase,cloudflare,npm,google)](https://skillicons.dev)
 
 ## Frameworks and Libraries 📚
 
- [![My Skills](https://skillicons.dev/icons?i=sass,jquery,react,electron)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=sass,jquery,react,electron,vite)](https://skillicons.dev)
 
 ## Design 🎨
 
