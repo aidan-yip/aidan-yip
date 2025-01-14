@@ -50,6 +50,7 @@
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="40" height="40"></img>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sql/php-original.svg" width="40" height="40"></img>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="40" height="40"></img>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="40" height="40"></img>
   <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" width="40" height="40"></img>
