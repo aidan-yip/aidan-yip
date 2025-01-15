@@ -21,7 +21,7 @@
 
 ## Tools I Use 🛠️
 
- [![My Skills](https://skillicons.dev/icons?i=vscode,github,gitlab,git,netlify,firebase,cloudflare,npm,google)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=vscode,github,gitlab,git,netlify,firebase,cloudflare,npm,mysql)](https://skillicons.dev)
 
 ## Frameworks and Libraries 📚
 
@@ -50,7 +50,8 @@
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="40" height="40"></img>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sql/sql-original.svg" width="40" height="40"></img>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"></img>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-original.svg" width="40" height="40"></img>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="40" height="40"></img>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="40" height="40"></img>
   <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" width="40" height="40"></img>
