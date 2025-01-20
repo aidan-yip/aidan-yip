@@ -62,7 +62,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="40" height="40"></img>
 </div>
 
-## Audio/Visual Software I Specialize in 🎧🎬
+## Audio/Visual Software 🎧🎬
 
 <ul>
   <li>DaVinci Resolve</li>
