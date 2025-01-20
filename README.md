@@ -21,7 +21,7 @@
 
 ## Tools I Use 🛠️
 
- [![My Skills](https://skillicons.dev/icons?i=vscode,github,gitlab,git,netlify,firebase,cloudflare,npm,mysql)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=vscode,github,gitlab,git,netlify,firebase,cloudflare,npm)](https://skillicons.dev)
 
 ## Frameworks and Libraries 📚
 
