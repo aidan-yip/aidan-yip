@@ -1,4 +1,4 @@
-# Hi there, I'm Aidan! 👋🏻
+# Hi There, I'm Aidan! 👋🏻
 
 <img src="https://github.com/aidan-yip/aidan-yip/blob/main/small.jpg" width="300" style="border-radius: 30px;"></img>
 
@@ -23,7 +23,7 @@
 
  [![My Skills](https://skillicons.dev/icons?i=vscode,github,gitlab,git,netlify,firebase,cloudflare,npm)](https://skillicons.dev)
 
-## Frameworks and Libraries 📚
+## Frameworks, Libraries and CMSs 📚
 
  [![My Skills](https://skillicons.dev/icons?i=sass,jquery,react,vite,electron,wordpress)](https://skillicons.dev)
 
@@ -34,11 +34,11 @@
 
 ## Operating Systems 💿
 
-   ![Skills](https://skills-icons.vercel.app/api/icons?i=apple,windows,linux,ubuntu,mint,)
+   ![Skills](https://skills-icons.vercel.app/api/icons?i=apple,windows,linux,ubuntu,mint)
    [![My Skills](https://skillicons.dev/icons?i=mint)](https://skillicons.dev)
-    ![Skills](https://skills-icons.vercel.app/api/icons?i=debian,raspberrypi,)
+   ![Skills](https://skills-icons.vercel.app/api/icons?i=debian,raspberrypi,)
 
-## Browsers I use for Development 🛜
+## Browsers I use to Develop 🛜
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/safari/safari-original-wordmark.svg" width="40" height="40"></img>
@@ -62,7 +62,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="40" height="40"></img>
 </div>
 
-## Audio/Visual Software 🎧🎬
+## Audio/Visual 🎧🎬
 
 <ul>
   <li>DaVinci Resolve</li>
