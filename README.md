@@ -1,8 +1,10 @@
 # Hi There, I'm Aidan! 👋🏻
 
-<img src="https://github.com/aidan-yip/aidan-yip/blob/main/small.jpg" width="300" style="border-radius: 30px;"></img>
+<img src="https://github.com/aidan-yip/aidan-yip/blob/main/small_cloud.png" width="100%" style="border-radius: 30px;"></img>
 
 # About Me
+
+<img src="https://github.com/aidan-yip/aidan-yip/blob/main/small.jpg" width="300" style="border-radius: 30px;"></img>
 
 ### I’m an aspiring Front-End Web Developer/Designer with a deep passion for programming. My creative interests lie in crafting immersive experiences that seamlessly blend audio and visual content, such as music, videos, and visual art. I showcase my skills by designing responsive websites, cloning existing interfaces, developing engaging web games, and experimenting with various projects. 
 
