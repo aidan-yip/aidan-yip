@@ -22,7 +22,7 @@
 
 ## Tools & CLIs 🛠️
 
- [![My Skills](https://skillicons.dev/icons?i=vscode,github,gitlab,git,netlify,firebase,cloudflare,npm,pnpm,bash,svg,stackoverflow)](https://github.com/aidan-yip)
+ [![My Skills](https://skillicons.dev/icons?i=vscode,github,gitlab,git,netlify,cloudflare,svg,stackoverflow,bash,firebase,npm,pnpm,)](https://github.com/aidan-yip)
 
 ## Frameworks, Libraries & CMSs 📚
 
