@@ -1,7 +1,7 @@
 # Hi There, I'm Aidan! 👋🏻
 
 <img src="https://github.com/aidan-yip/aidan-yip/blob/main/small.jpg" width="300" style="border-radius: 30px;"></img>
-<img src="https://github.com/aidan-yip/aidan-yip/blob/main/" width="520" style="border-radius: 30px;" oncontextmenu="return false"></img>
+<img src="https://github.com/aidan-yip/aidan-yip/blob/main/thin_cloud.png/" width="520" style="border-radius: 30px;" oncontextmenu="return false"></img>
 
 # About Me
 
