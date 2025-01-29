@@ -20,11 +20,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/xml/xml-original.svg" width="40" height="40"></img>
 </div>
 
-## Tools I Use 🛠️
+## Tools & CLIs 🛠️
 
  [![My Skills](https://skillicons.dev/icons?i=vscode,github,gitlab,git,netlify,firebase,cloudflare,npm,pnpm,bash,svg,stackoverflow)](https://github.com/aidan-yip)
 
-## Frameworks, Libraries and CMSs 📚
+## Frameworks, Libraries & CMSs 📚
 
  [![My Skills](https://skillicons.dev/icons?i=sass,jquery,react,vite,electron,wordpress)](https://github.com/aidan-yip)
 
