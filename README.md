@@ -13,7 +13,7 @@
 
 ## Languages I Know 💻
 
- [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,md,)](https://github.com/aidan-yip)
+ [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,md,svg)](https://github.com/aidan-yip)
  
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg" width="40" height="40"></img>
@@ -22,7 +22,7 @@
 
 ## Tools & CLIs 🛠️
 
- [![My Skills](https://skillicons.dev/icons?i=vscode,github,gitlab,git,netlify,cloudflare,svg,stackoverflow,bash,firebase,npm,pnpm,)](https://github.com/aidan-yip)
+ [![My Skills](https://skillicons.dev/icons?i=vscode,github,gitlab,git,netlify,cloudflare,stackoverflow,bash,firebase,npm,pnpm,)](https://github.com/aidan-yip)
 
 ## Frameworks, Libraries & CMSs 📚
 
