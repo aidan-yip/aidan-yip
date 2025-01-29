@@ -13,7 +13,7 @@
 
 ## Languages I Know 💻
 
- [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,md,)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,md,)](https://github.com/aidan-yip)
  
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg" width="40" height="40"></img>
@@ -22,22 +22,22 @@
 
 ## Tools I Use 🛠️
 
- [![My Skills](https://skillicons.dev/icons?i=vscode,github,gitlab,git,netlify,firebase,cloudflare,npm)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=vscode,github,gitlab,git,netlify,firebase,cloudflare,npm)](https://github.com/aidan-yip)
 
 ## Frameworks, Libraries and CMSs 📚
 
- [![My Skills](https://skillicons.dev/icons?i=sass,jquery,react,vite,electron,wordpress)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=sass,jquery,react,vite,electron,wordpress)](https://github.com/aidan-yip)
 
 ## Design 🎨
 
- [![My Skills](https://skillicons.dev/icons?i=figma,xd,illustrator,photoshop)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=figma,xd,illustrator,photoshop)](https://github.com/aidan-yip)
  ![Skills](https://skills-icons.vercel.app/api/icons?i=lightroom)
 
 ## Operating Systems 💿
 
    ![Skills](https://skills-icons.vercel.app/api/icons?i=apple,windows,linux,ubuntu,mint)
-   [![My Skills](https://skillicons.dev/icons?i=mint)](https://skillicons.dev)
-   ![Skills](https://skills-icons.vercel.app/api/icons?i=debian,raspberrypi,)
+   [![My Skills](https://skillicons.dev/icons?i=mint)](https://github.com/aidan-yip)
+   ![Skills](https://skills-icons.vercel.app/api/icons?i=debian,raspberrypi)
 
 ## Browsers I use to Develop 🛜
 
