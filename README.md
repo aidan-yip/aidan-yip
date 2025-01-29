@@ -22,7 +22,7 @@
 
 ## Tools I Use 🛠️
 
- [![My Skills](https://skillicons.dev/icons?i=vscode,github,gitlab,git,netlify,firebase,cloudflare,npm,pnpm,stackoverflow)](https://github.com/aidan-yip)
+ [![My Skills](https://skillicons.dev/icons?i=vscode,github,gitlab,git,netlify,firebase,cloudflare,npm,pnpm,bash,svg,stackoverflow)](https://github.com/aidan-yip)
 
 ## Frameworks, Libraries and CMSs 📚
 
