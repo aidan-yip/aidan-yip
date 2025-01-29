@@ -1,6 +1,6 @@
 # Hi There, I'm Aidan! 👋🏻
 
-<img src="https://github.com/aidan-yip/aidan-yip/blob/main/small_cloud.png" width="100%" style="border-radius: 30px;" oncontextmenu="return false"></img>
+<img src="https://github.com/aidan-yip/aidan-yip/blob/main/" width="100%" style="border-radius: 30px;" oncontextmenu="return false"></img>
 
 # About Me
 
