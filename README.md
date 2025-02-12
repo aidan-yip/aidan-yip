@@ -1,4 +1,4 @@
-# Hi There, I'm Aidan! 👋🏻
+# 👋🏻 Hi There, I'm Aidan!
 
 <img src="https://github.com/aidan-yip/aidan-yip/blob/main/small.jpg" width="300" style="border-radius: 30px;"></img>
 <img src="https://github.com/aidan-yip/aidan-yip/blob/main/thin_cloud.png/" width="520" style="border-radius: 30px;" oncontextmenu="return false"></img>
@@ -11,7 +11,7 @@
 
 ### Currently I am a student studying at BCIT in the Front-End Web Developer program.
 
-## Languages I Know 💻
+## 💻 Languages I Know
 
  [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,md,svg)](https://github.com/aidan-yip)
  
