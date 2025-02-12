@@ -20,26 +20,26 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/xml/xml-original.svg" width="40" height="40"></img>
 </div>
 
-## Tools & CLIs 🛠️
+## 🛠️ Tools & CLIs
 
  [![My Skills](https://skillicons.dev/icons?i=vscode,github,gitlab,git,netlify,cloudflare,stackoverflow,bash,firebase,npm,pnpm,)](https://github.com/aidan-yip)
 
-## Frameworks, Libraries & CMSs 📚
+## 📚 Frameworks, Libraries & CMSs
 
  [![My Skills](https://skillicons.dev/icons?i=sass,jquery,react,vite,electron,wordpress,mui,emotion)](https://github.com/aidan-yip)
 
-## Design 🎨
+## 🎨 Design
 
  [![My Skills](https://skillicons.dev/icons?i=figma,xd,illustrator,photoshop)](https://github.com/aidan-yip)
  ![Skills](https://skills-icons.vercel.app/api/icons?i=lightroom)
 
-## Operating Systems 💿
+## 💿 Operating Systems
 
    ![Skills](https://skills-icons.vercel.app/api/icons?i=apple,windows,linux,ubuntu,mint)
    [![My Skills](https://skillicons.dev/icons?i=mint)](https://github.com/aidan-yip)
    ![Skills](https://skills-icons.vercel.app/api/icons?i=debian,raspberrypi)
 
-## Browsers I use to Develop 🛜
+## 🛜 Browsers I use to Develop
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/safari/safari-original-wordmark.svg" width="40" height="40"></img>
@@ -47,7 +47,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original-wordmark.svg" width="40" height="40"></img>
 </div>
 
-## Stuff I'm Learning 🌿
+## 🌿 Stuff I'm Learning
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="40" height="40"></img>
@@ -63,7 +63,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="40" height="40"></img>
 </div>
 
-## Audio/Visual 🎧🎬
+## 🎧🎬 Audio/Visual
 
 <ul>
   <li>DaVinci Resolve</li>
@@ -74,6 +74,10 @@
    <img src="https://github.com/devicons/devicon/raw/master/icons/gimp/gimp-original.svg" width="40" height="40"></img>
 </ul>
 
+## 📫 Get in Touch 
+
+- **LinkedIn:** [Aidan Yip](https://www.linkedin.com/in/aidan-yip/)
+
 ## My Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aidan-yip&border_radius=35&border_color=001658&theme=algolia)](https://github.com/aidan-yip)
@@ -82,7 +86,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aidan-yip&layout=donut-vertical&theme=codeSTACKr&border_radius=35&card_width=450&height=195)](https://github.com/aidan-yip)
 
-## Pinned 📌
+## 📌 Pinned
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aidan-yip&repo=mac_tv&theme=algolia)](https://github.com/aidan-yip/mac_tv)
 
