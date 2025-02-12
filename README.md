@@ -20,7 +20,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/xml/xml-original.svg" width="40" height="40"></img>
 </div>
 
-## 🛠️ Tools & CLIs
+## 🛠️ Tools, IDEs & CLIs
 
  [![My Skills](https://skillicons.dev/icons?i=vscode,github,gitlab,git,vercel,netlify,cloudflare,stackoverflow,bash,firebase,npm,pnpm,)](https://github.com/aidan-yip)
 
