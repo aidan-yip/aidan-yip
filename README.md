@@ -11,6 +11,11 @@
 
 ### Currently I am a student studying at BCIT in the Front-End Web Developer program.
 
+## 📫 Get in Touch 
+
+**LinkedIn:** [Aidan Yip](https://www.linkedin.com/in/aidan-yip/)
+
+
 ## 💻 Languages I Know
 
  [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,md,svg)](https://github.com/aidan-yip)
@@ -73,10 +78,6 @@
    <img src="https://github.com/devicons/devicon/raw/master/icons/gimp/gimp-original.svg" width="40" height="40"></img>
 </ul>
 
-## 📫 Get in Touch 
-
-- **LinkedIn:** [Aidan Yip](https://www.linkedin.com/in/aidan-yip/)
-
 ## My Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aidan-yip&border_radius=35&border_color=001658&theme=algolia)](https://github.com/aidan-yip)
@@ -99,37 +100,6 @@
   <img src="" width="40" height="40"></img>
   <img src="" width="40" height="40"></img>
   <img src="" width="40" height="40"></img>
-
-  <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"></img>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"></img>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40"></img>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg" width="40" height="40"></img>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/xml/xml-original.svg" width="40" height="40"></img>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" width="40" height="40"></img>
-</div>
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" width="40" height="40"></img>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" width="40" height="40"></img>
-</div>
-
-  <div>
-  <img src="https://github.com/aidan-yip/aidan-yip/raw/main/apple.png" width="35" height="40"></img>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="40" height="40"></img>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" width="40" height="40"></img> 
-</div>
-
-  <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" width="40" height="40"></img>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" width="40" height="40"></img>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="40" height="40"></img>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/netlify/netlify-original-wordmark.svg" width="40" height="40"></img>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original-wordmark.svg" width="40" height="40"></img>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cloudflare/cloudflare-original-wordmark.svg" width="40" height="40"></img>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" width="40" height="40"></img>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/google/google-original-wordmark.svg" width="40" height="40"></img>
-</div>
 
 Here are some ideas to get you started:
 
