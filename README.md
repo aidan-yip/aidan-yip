@@ -32,6 +32,7 @@
 ## 📚 Frameworks, Libraries & CMSs
 
  [![My Skills](https://skillicons.dev/icons?i=sass,jquery,react,vite,mui,emotion,electron,wordpress)](https://github.com/aidan-yip)
+  ![Skills](https://skills-icons.vercel.app/api/icons?i=shopify)
 
 ## 🎨 Design
 
