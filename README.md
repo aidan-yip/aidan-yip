@@ -18,7 +18,7 @@
 
 ## 💻 Languages I Know
 
- [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,md,svg)](https://github.com/aidan-yip)
+ ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,php,md,svg&theme=dark)
  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=json&theme=dark)
   
 <div>
