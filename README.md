@@ -28,8 +28,8 @@
 
 ## 🛠️ Tools, IDEs & CLIs
 
- [![My Skills](https://skillicons.dev/icons?i=vscode,github,gitlab,git,vercel,netlify,cloudflare,stackoverflow,bash,firebase,npm,pnpm)](https://github.com/aidan-yip)
- ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=lighthouse,slack&theme=dark)
+ [![My Skills](https://skillicons.dev/icons?i=vscode,github,gitlab,git,vercel,netlify,cloudflare,stackoverflow,bash,npm,pnpm)](https://github.com/aidan-yip)
+ ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=firebase,lighthouse,slack&theme=dark)
  ![Skills](https://skills-icons.vercel.app/api/icons?i=gemini&theme=dark)
 
 ## 📚 Frameworks, Libraries & CMSs
