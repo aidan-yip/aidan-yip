@@ -36,6 +36,9 @@
 ## 📚 Frameworks, Libraries & CMSs
 
  [![My Skills](https://skillicons.dev/icons?i=sass,jquery,react,vite,mui,emotion,electron,wordpress)](https://github.com/aidan-yip)
+
+ <div></div>
+
  ![Skills](https://skills-icons.vercel.app/api/icons?i=shopify)
 
 ## 🎨 Design
@@ -48,29 +51,14 @@
    ![Skills](https://skills-icons.vercel.app/api/icons?i=apple,windows,linux,ubuntu,mint)
    [![My Skills](https://skillicons.dev/icons?i=mint)](https://github.com/aidan-yip)
    ![Skills](https://skills-icons.vercel.app/api/icons?i=debian,raspberrypi)
+   
+## 🛜 Browsers
 
-## 🛜 Browsers I use to Develop
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/safari/safari-original-wordmark.svg" width="40" height="40"></img>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firefox/firefox-original-wordmark.svg" width="40" height="40"></img>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original-wordmark.svg" width="40" height="40"></img>
-</div>
+ ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=safari,firefox,chrome)
 
 ## 🌿 Stuff I'm Learning
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="40" height="40"></img>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"></img>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-original.svg" width="40" height="40"></img>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="40" height="40"></img>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" width="40" height="40"></img>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" width="40" height="40"></img>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="40" height="40"></img>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="40" height="40"></img>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" width="40" height="40"></img>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="40" height="40"></img>
-</div>
+ ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=php,mysql,nextjs,xcode,swift,bootstrap,ruby,cs)
 
 ## 🎧🎬 Audio/Visual
 
