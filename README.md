@@ -41,6 +41,7 @@
 
  [![My Skills](https://skillicons.dev/icons?i=figma,xd,illustrator,photoshop)](https://github.com/aidan-yip)
  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=lightroom&theme=dark)
+ ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=fresco&theme=dark)
 
 ## 💿 Operating Systems
 
