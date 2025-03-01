@@ -19,10 +19,10 @@
 ## 💻 Languages I Know
 
  [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,md,svg)](https://github.com/aidan-yip)
- 
+ ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=json&theme=dark)
+  
 <div>
   <img src="https://github.com/aidan-yip/aidan-yip/raw/main/liquid_v2.png" width="40" height="40"></img>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg" width="40" height="40"></img>
   <img src="https://github.com/devicons/devicon/blob/master/icons/xml/xml-original.svg" width="40" height="40"></img>
 </div>
 
