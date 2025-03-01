@@ -29,7 +29,7 @@
 ## 🛠️ Tools, IDEs & CLIs
 
  [![My Skills](https://skillicons.dev/icons?i=vscode,github,gitlab,git,vercel,netlify,cloudflare,stackoverflow,bash,firebase,npm,pnpm)](https://github.com/aidan-yip)
- ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=shopify,slack&theme=dark)
+ ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=slack&theme=dark)
  ![Skills](https://skills-icons.vercel.app/api/icons?i=gemini&theme=dark)
 
 ## 📚 Frameworks, Libraries & CMSs
@@ -40,7 +40,7 @@
 ## 🎨 Design
 
  [![My Skills](https://skillicons.dev/icons?i=figma,xd,illustrator,photoshop)](https://github.com/aidan-yip)
- ![Skills](https://skills-icons.vercel.app/api/icons?i=lightroom)
+ ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=lightroom&theme=dark)
 
 ## 💿 Operating Systems
 
