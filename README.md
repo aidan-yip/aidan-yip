@@ -30,16 +30,13 @@
 
  [![My Skills](https://skillicons.dev/icons?i=vscode,github,gitlab,git,vercel,netlify,cloudflare,stackoverflow,bash,firebase,npm,pnpm,)](https://github.com/aidan-yip)
 
- ![Skills](https://skills-icons.vercel.app/api/icons?i=gemini)
- 
+ ![Skills](https://skills-icons.vercel.app/api/icons?i=gemini&theme=dark)
 
 ## 📚 Frameworks, Libraries & CMSs
 
  [![My Skills](https://skillicons.dev/icons?i=sass,jquery,react,vite,mui,emotion,electron,wordpress)](https://github.com/aidan-yip)
 
- <div></div>
-
- ![Skills](https://skills-icons.vercel.app/api/icons?i=shopify)
+ ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=shopify&theme=dark)
 
 ## 🎨 Design
 
@@ -48,17 +45,16 @@
 
 ## 💿 Operating Systems
 
-   ![Skills](https://skills-icons.vercel.app/api/icons?i=apple,windows,linux,ubuntu,mint)
-   [![My Skills](https://skillicons.dev/icons?i=mint)](https://github.com/aidan-yip)
-   ![Skills](https://skills-icons.vercel.app/api/icons?i=debian,raspberrypi)
+   ![Skills](https://skills-icons.vercel.app/api/icons?i=apple,windows,linux,ubuntu,debian,raspberrypi)
+   [![My Skills](https://skillicons.dev/icons?i=mint&theme=light)](https://github.com/aidan-yip)
    
 ## 🛜 Browsers
 
- ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=safari,firefox,chrome)
+ ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=safari,firefox,chrome&theme=dark)
 
 ## 🌿 Stuff I'm Learning
 
- ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=php,mysql,nextjs,xcode,swift,bootstrap,ruby,cs)
+ ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=php,mysql,nextjs,xcode,swift,bootstrap,ruby,cs&theme=dark)
 
 ## 🎧🎬 Audio/Visual
 
