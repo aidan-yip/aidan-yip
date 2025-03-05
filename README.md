@@ -9,7 +9,7 @@
 
 ### My background as a Film Intern and Video Editor has provided me with a distinct advantage in web design. Through shadowing on film sets, volunteering, and video production, I have gained a comprehensive understanding of color science and color grading techniques. These skills enable me to craft visually captivating and aesthetically pleasing websites. Join me on this journey of learning and growth as I share my progress!
 
-### Currently I am a student studying at BCIT in the Front-End Web Developer program.
+### Currently I am a BCIT student expanding my skillset in the Front-End Web Developer program.
 
 ## 📫 Get in Touch 
 
