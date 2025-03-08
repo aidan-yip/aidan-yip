@@ -54,7 +54,7 @@
 
 ## 🌿 Stuff I'm Learning
 
- ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=expo,php,mysql,nextjs,xcode,swift,bootstrap,ruby,cs&theme=dark)
+ ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=threejs,expo,php,mysql,nextjs,xcode,swift,bootstrap,ruby,cs&theme=dark)
 
 ## 🎧🎬 Audio/Visual
 
