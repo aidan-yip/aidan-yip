@@ -45,7 +45,7 @@
 
 ## 💿 Operating Systems
 
-   ![Skills](https://skills-icons.vercel.app/api/icons?i=apple,windows,linux,ubuntu,debian,raspberrypi)
+   ![Skills](https://skills-icons.vercel.app/api/icons?i=apple,ubuntu,linux,windows,debian,raspberrypi)
    [![My Skills](https://skillicons.dev/icons?i=mint&theme=light)](https://github.com/aidan-yip)
    
 ## 🛜 Browsers
