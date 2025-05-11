@@ -13,7 +13,9 @@
 
 ## 📫 Get in Touch 
 
-**LinkedIn:** [Aidan Yip](https://www.linkedin.com/in/aidan-yip/)
+**LinkedIn:** [linkedin.com/in/aidan-yip](https://www.linkedin.com/in/aidan-yip/)
+
+**Portfolio:** [aidanyip.com](https://www.aidanyip.com/)
 
 
 ## 💻 Languages I Know
