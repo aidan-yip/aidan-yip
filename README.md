@@ -65,6 +65,7 @@
    <img src="https://github.com/devicons/devicon/raw/master/icons/gimp/gimp-original.svg" width="40" height="40"></img>
 </ul>
 
+<!--
 ## My Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aidan-yip&border_radius=35&border_color=001658&theme=algolia)](https://github.com/aidan-yip)
@@ -78,6 +79,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aidan-yip&repo=mac_tv&theme=algolia)](https://github.com/aidan-yip/mac_tv)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aidan-yip&repo=zone_23&theme=algolia)](https://github.com/aidan-yip/zone_23)
+-->
 
 <!--
 **aidan-yip/aidan-yip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
