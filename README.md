@@ -5,9 +5,11 @@
 
 # About Me
 
-### I’m a Front-End Web Developer/Designer with a deep passion for programming. My creative interests lie in crafting immersive experiences that seamlessly blend audio and visual content, such as music, videos, and visual art. I showcase my skills by designing responsive websites, cloning existing interfaces, developing engaging web games, and experimenting with various projects. 
+### I’m a Front-End Web Developer/Designer with a deep passion for designing approachable websites. My creative interests lie in crafting immersive experiences that seamlessly blend audio and visual content, such as music, videos, and visual art. I believe technology is about human interaction and enriching lives. A user interface is not merely an artistic expression; it is a beautiful means of connecting with billions of people you will never meet. When form meets function intuitively, everyone benefits.
 
-### My background as a Film Intern and Video Editor has provided me with a distinct advantage in web design. Through shadowing on film sets, volunteering, and video production, I have gained a comprehensive understanding of color science and color grading techniques. These skills enable me to craft visually captivating and aesthetically pleasing websites. Join me on this journey of learning and growth as I share my progress!
+### My background as a Film Intern and Video Editor has provided me with a distinct advantage in web design. Through shadowing on film sets, volunteering, and video production, I have gained a comprehensive understanding of color science and color grading techniques. These skills enable me to craft visually captivating and aesthetically pleasing websites.
+
+### Join me on this journey of learning and growth as we progress together!
 
 ## 📫 Get in Touch 
 
